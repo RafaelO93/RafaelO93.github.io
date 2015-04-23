@@ -1,0 +1,48 @@
+.text {
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 20px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+#form {
+    margin-left: 60px;
+    margin-bottom: 200px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#motivos {
+    margin-bottom: 2000px;
+    margin-top: 20px;
+
+}
+
+#listainteresse{
+    margin-bottom: 2px;
+    margin-top: 500px;
+}
+
+.espaco {
+    margin-right: 10px;
+    text-align: center;
+}
+
+.input {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+}
+
+#cadastro{
+     margin-top: 10px;
+}
+.intro-lead-in{
+    color: black;
+}
+.intro-heading{
+     color: black;
+}
